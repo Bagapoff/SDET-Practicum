@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ru.mail.bagapov99.CalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 23.183 s - in ru.mail.bagapov99.CalculatorTest
